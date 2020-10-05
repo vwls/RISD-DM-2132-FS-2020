@@ -1,0 +1,1 @@
+Create a generative logo. It can be for yourself, your mom, your friend’s studio, this class, anyone/thing. It must be slightly different almost every time, but does not have to be dynamic or animated real time unless you want it to be. It should be non-deterministic. It should surprise you. 

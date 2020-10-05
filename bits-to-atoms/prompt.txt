@@ -1,0 +1,4 @@
+Create a physical, three-dimensional object. You can use any fabrication tools you’d like to create this object including digital fabrication tools such as 3D printers and laser cutters. You should design this object in Processing, OpenSCAD, or script it in Grasshopper, Fusion360, Adobe Illustrator, or other coding or scripting tool. The final object does not have to start from raw material only*. 
+
+*For example, if you want to make tiny chairs for your cats, you can attach “off the shelf” carpet to your designed and CNC milled chair parts.
+

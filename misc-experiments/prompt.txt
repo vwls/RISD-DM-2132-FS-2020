@@ -1,0 +1,3 @@
+catch all bin!
+
+use this directory for screen shots and code snippets. This includes (but is not limited to) in-class exercises, experiments, etc.
