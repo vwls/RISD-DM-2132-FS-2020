@@ -14,7 +14,8 @@ It's based on keyboard inputs so you have to go to
 			Privacy panel's Automation and Accessibility
 and allow Script Editor to access the keyboard.
 
-!!!!!   After pressing play on the script you have five seconds to command-tab into Minecraft 
+!!!!!   This script relies on Minecraft already being open on your computer and you're at the title
+screen. After pressing play on the script you have five seconds to command-tab into Minecraft 
 before key commands start getting input. The whole process of 120 worlds takes a while. 
 On my computer about 30 - 45 seconds per world creation  !!!!!
 
